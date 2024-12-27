@@ -1,30 +1,33 @@
-# GPT Architect for Italians
-
+# 🛠️ Architetto GPT Italiani
 <div align="center">
-  <a href="https://github.com/edoardoavenia">
-    <img src="https://img.shields.io/badge/Developer-Edoardo_Avenia-2ea44f?style=for-the-badge&logo=github" alt="Developer">
+  <a href="https://chatgpt.com/g/g-1o6DaFTfg-architetto-gpt-italiani">
+    <img src="https://img.shields.io/badge/TRY_THIS_GPT-37a779?style=for-the-badge&logo=openai&logoWidth=20" alt="Try Architetto GPT Italiani" width="200">
   </a>
-  <a href="https://chat.openai.com">
-    <img src="https://img.shields.io/badge/Platform-ChatGPT-74aa9c?style=for-the-badge&logo=openai" alt="Platform">
+  <a href="https://github.com/edoardoavenia/edoardo-avenia-gpt-collection">
+    <img src="https://img.shields.io/badge/VIEW_ALL_MY_GPTs-4f46e5?style=for-the-badge&logo=github&logoWidth=20" alt="GPTs Collection" width="250">
   </a>
 </div>
 
-## Version
+## 🤖 About This GPT
+Il tuo alleato per progettare GPTs personalizzati in italiano e pubblicarli nello store di OpenAI. Questo strumento avanzato ti guida nella creazione di istruzioni su misura, nell'esplorazione di tecniche avanzate di prompt engineering e garantisce la sicurezza dei tuoi GPTs. Per iniziare, utilizza il comando 📘 Benvenuto.
+
+## 🔗 Direct Links
+- 🎯 [Try Architetto GPT Italiani](https://chatgpt.com/g/g-1o6DaFTfg-architetto-gpt-italiani)
+- 📚 [View All My GPTs Collection](https://github.com/edoardoavenia/edoardo-avenia-gpt-collection)
+- 💡 [View Full Prompt](./PROMPT.md)
+- 📂 [View Commands Documentation](./commands/)
+
+## 📖 Documentation
+The complete prompt for this GPT is available in this repository. All commands and their detailed documentation can be found in the [commands folder](./commands/), where each command is documented in its own markdown file.
+
+## 👨‍💻 Author & Links
+- Created by [Edoardo Avenia](https://github.com/edoardoavenia)
+- LinkedIn: [Connect with me](https://www.linkedin.com/in/edoardoavenia/)
+
 <div align="center">
-  <img src="https://img.shields.io/badge/v5.1-Latest-green?style=for-the-badge&logo=v" alt="Version">
-  <img src="https://img.shields.io/badge/IT-language-blue?style=for-the-badge" alt="Language">
+  <img src="https://img.shields.io/badge/Version-5.1-2ea44f?style=for-the-badge" alt="Version">
 </div>
 
-## Overview
-Detailed description of GPT Architect for Italians capabilities and features.
-
-## Features
-- Feature 1
-- Feature 2
-- Feature 3
-
-## Usage
-Instructions on how to use this GPT effectively.
-
-## License
-This project is licensed under the GNU General Public License v3.0 - see the LICENSE file for details.
+<div align="center">
+  <h3>Part of <a href="https://github.com/edoardoavenia/edoardo-avenia-gpt-collection">Edoardo Avenia's GPTs Collection</a></h3>
+</div>
