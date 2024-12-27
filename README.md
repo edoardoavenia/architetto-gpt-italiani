@@ -17,9 +17,6 @@ Il tuo alleato per progettare GPTs personalizzati in italiano e pubblicarli nell
 - 💡 [View Full Prompt](./PROMPT.md)
 - 📂 [View Commands Documentation](./commands/)
 
-## 📖 Documentation
-The complete prompt for this GPT is available in this repository. All commands and their detailed documentation can be found in the [commands folder](./commands/), where each command is documented in its own markdown file.
-
 ## 👨‍💻 Author & Links
 - Created by [Edoardo Avenia](https://github.com/edoardoavenia)
 - LinkedIn: [Connect with me](https://www.linkedin.com/in/edoardoavenia/)
